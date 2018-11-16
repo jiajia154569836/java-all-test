@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="375aa3d6-ad52-4b64-a4bc-944a49e6bd00" name="Default" comment="" />
+    <list default="true" id="375aa3d6-ad52-4b64-a4bc-944a49e6bd00" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/Equal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/data_structure/tree/BinarySearchTreeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/data_structure/tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/data_structure/tree/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/BuilderPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/ChickenBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Coke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/ColdDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/MealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Packing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Pepsi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/VegBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/ManBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/PersonBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/PersonDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/模板模式/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/模板模式/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/模板模式/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/模板模式/TemplatePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式/AbstractLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式/ChainPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式/LoggerEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/ChainOfResponsibilityClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/DepartmentHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/GroupLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Ratify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/RealChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/entity/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,72 +55,168 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/offer/test01.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Result.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Result.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="docComment;class#Result#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestMyAnnotation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/annotate/demo/TestMyAnnotation.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" column="24" lean-forward="true" selection-end-line="12" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="docComment;class#Main#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Table.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/annotate/product_sql/Table.java">
+      <file leaf-file-name="ChainOfResponsibilityClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/ChainOfResponsibilityClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="231">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="docComment;class#ChainOfResponsibilityClient#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="docComment;method#addRatifys#0;class#ChainOfResponsibilityClient#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="docComment;method#execute#0;class#ChainOfResponsibilityClient#0" expanded="true" />
+                <element signature="e#648#656#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserAnnotation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/annotate/demo/UserAnnotation.java">
+      <file leaf-file-name="RealChain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/RealChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-797">
-              <caret line="6" column="18" selection-end-line="50" />
+            <state relative-caret-position="203">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="docComment;class#RealChain#0" expanded="true" />
+                <element signature="docComment;method#RealChain#0;class#RealChain#0" expanded="true" />
+                <element signature="docComment;method#proceed#0;class#RealChain#0" expanded="true" />
+                <element signature="docComment;method#request#0;class#RealChain#0" expanded="true" />
+                <element signature="e#1138#1139#0" expanded="true" />
+                <element signature="e#1168#1169#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Column.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/annotate/product_sql/Column.java">
+      <file leaf-file-name="Manager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="docComment;class#Manager#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/annotate/product_sql/Test.java">
+      <file leaf-file-name="GroupLeader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/GroupLeader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="181">
+              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+              <folding>
+                <element signature="docComment;class#GroupLeader#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/annotate/product_sql/User.java">
+      <file leaf-file-name="Ratify.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Ratify.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="237">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="19" />
+              <folding>
+                <element signature="docComment;class#Ratify#0" expanded="true" />
+                <element signature="docComment;class#Chain#0;class#Ratify#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorLogger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式/ErrorLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="47" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="47" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChainPatternDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式/ChainPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoggerEnum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式/LoggerEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spatial4j</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,11 +224,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/annotate/product_sql/User.java" />
-        <option value="$PROJECT_DIR$/src/test/aa.java" />
-        <option value="$PROJECT_DIR$/src/test/asserts/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/annotate/product_sql/Column.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/策略模式/StrategyPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/外观模式/Shap.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/外观模式/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/外观模式/Square.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/外观模式/Circle.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/外观模式/ShapeMaker.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/外观模式/FacadePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/模板模式/Game.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/模板模式/Cricket.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/模板模式/Football.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/模板模式/TemplatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/entity/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/Equal.java" />
+        <option value="$PROJECT_DIR$/src/test/Tree/Node.java" />
+        <option value="$PROJECT_DIR$/src/test/tree/Tree.java" />
+        <option value="$PROJECT_DIR$/src/test/tree/BinarySearchTreeApp.java" />
+        <option value="$PROJECT_DIR$/src/test/data_structure/ss.java" />
+        <option value="$PROJECT_DIR$/src/test/data_structure/tree/BinarySearchTreeApp.java" />
+        <option value="$PROJECT_DIR$/src/test/data_structure/tree/Tree.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/sss.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/cc.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/ccss.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/ChainOfResponsibilityClient.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/DepartmentHeader.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/zz.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/ChainOfResponsibilityClient.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/aa.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/ss.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/AbstractLogger.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/LoggerEnum.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/职责链模式/ChainPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/dd.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/cc.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/sss.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/ss.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/ssd.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/sssd.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/zzzz.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/qq.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/az.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/xs.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/asdas.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Item.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/ss.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/PersonBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/ManBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/sss.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/sas.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/PersonDirector.java" />
+        <option value="$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/Test.java" />
       </list>
     </option>
   </component>
@@ -107,15 +293,31 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Lenovo\.m2\repository" />
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java-all-test Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java-all-test Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="432" />
-    <option name="y" value="11" />
-    <option name="width" value="928" />
-    <option name="height" value="688" />
+    <option name="x" value="578" />
+    <option name="width" value="1382" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -133,7 +335,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -156,6 +360,12 @@
               <item name="java-all-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-all-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-all-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-all-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,23 +373,44 @@
               <item name="java-all-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="annotate" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-all-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-all-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="annotate" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="建造者模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-all-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-all-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="annotate" type="462c0819:PsiDirectoryNode" />
-              <item name="product_sql" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="建造者模式" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-all-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-all-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="职责链模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-all-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-all-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="职责链模式and创建模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-all-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -192,13 +423,20 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../shuzihua_app_workspace" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tutorials-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\git\java-all-test\src\test\lambda" />
+      <recent name="E:\workspace\git\java-all-test\src\test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -212,11 +450,60 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTreeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.tree.BinarySearchTreeApp" />
+      <module name="java-all-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPattern.职责链模式.ChainPatternDemo" />
+      <module name="java-all-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPattern.职责链模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Equal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Equal" />
+      <module name="java-all-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPattern.职责链模式and创建模式.Main" />
+      <module name="java-all-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPattern.职责链模式and创建模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designPattern.建造者模式.demo2.Test" />
+      <module name="java-all-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="designPattern.建造者模式.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="annotate.product_sql.Test" />
       <module name="java-all-test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -227,13 +514,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestMyAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annotate.demo.TestMyAnnotation" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.Test" />
       <module name="java-all-test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annotate.demo.*" />
+          <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +581,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.TestMyAnnotation" />
+      <item itemvalue="Application.Equal" />
+      <item itemvalue="Application.BinarySearchTreeApp" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ChainPatternDemo" />
+      <item itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestMyAnnotation" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.ChainPatternDemo" />
+        <item itemvalue="Application.BinarySearchTreeApp" />
+        <item itemvalue="Application.Equal" />
       </list>
     </recent_temporary>
   </component>
@@ -313,49 +607,72 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531448124040</updated>
-      <workItem from="1531448125939" duration="3130000" />
+      <workItem from="1531448125939" duration="4467000" />
+      <workItem from="1532143911784" duration="11450000" />
+      <workItem from="1533104768133" duration="721000" />
+      <workItem from="1539595861648" duration="4461000" />
+      <workItem from="1539676561806" duration="8596000" />
+      <workItem from="1540795931474" duration="4155000" />
+      <workItem from="1540885141210" duration="7081000" />
+      <workItem from="1541141541772" duration="8248000" />
+      <workItem from="1541578757016" duration="7188000" />
+      <workItem from="1542267044676" duration="9714000" />
     </task>
+    <task id="LOCAL-00001" summary="设计模式">
+      <created>1541224565241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541224565241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3130000" />
+    <option name="totallyTimeSpent" value="66081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="2" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.0382263" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="0" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295107" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.28324696" />
       <window_info anchor="bottom" id="TODO" order="14" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.3298791" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.21416235" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="bottom" id="Java Enterprise" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.507772" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.23834197" />
+      <window_info anchor="bottom" id="Spring" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2553517" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.26681957" />
       <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="JRebel" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="JProfiler" />
+      <window_info anchor="right" id="BPMNPalette" order="10" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" order="1" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="0" weight="0.3298791" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,82 +681,538 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Main.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/annotate/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/装饰模式/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/装饰模式/ShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/观察者模式/OctalObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/观察者模式/BinaryObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/观察者模式/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/观察者模式/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/观察者模式/HexaObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/观察者模式/ObserverPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/模板模式/Football.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/模板模式/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/模板模式/Cricket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/模板模式/TemplatePatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/entity/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="350">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/asserts/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/offer/test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/annotate/demo/UserAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-797">
-          <caret line="6" column="18" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/annotate/demo/TestMyAnnotation.java">
+    <entry file="file://$PROJECT_DIR$/src/test/data_structure/ss.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/Equal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="24" lean-forward="true" selection-end-line="12" />
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/annotate/product_sql/Column.java">
+    <entry file="file://$PROJECT_DIR$/src/test/data_structure/tree/BinarySearchTreeApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="675">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/annotate/product_sql/Table.java">
+    <entry file="file://$PROJECT_DIR$/src/test/data_structure/tree/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="125">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/annotate/product_sql/User.java">
+    <entry file="file://$PROJECT_DIR$/src/test/data_structure/tree/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="275">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/annotate/product_sql/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式/FileLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="200">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式/ConsoleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式/AbstractLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Wrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/VegBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Pepsi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Bottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/BuilderPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Burger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/ChickenBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Coke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/ColdDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#146#152#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/MealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo1/Packing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/PersonBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/PersonDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/ManBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/建造者模式/demo2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+          <folding>
+            <element signature="docComment;class#Request#0" expanded="true" />
+            <element signature="e#2906#2907#0" expanded="true" />
+            <element signature="e#2954#2955#0" expanded="true" />
+            <element signature="e#2988#2989#0" expanded="true" />
+            <element signature="e#3015#3016#0" expanded="true" />
+            <element signature="e#3126#3127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/DepartmentHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="docComment;class#DepartmentHeader#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/RealChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="docComment;class#RealChain#0" expanded="true" />
+            <element signature="docComment;method#RealChain#0;class#RealChain#0" expanded="true" />
+            <element signature="docComment;method#proceed#0;class#RealChain#0" expanded="true" />
+            <element signature="docComment;method#request#0;class#RealChain#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1168#1169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="docComment;class#Result#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="docComment;class#Main#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/ChainOfResponsibilityClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="docComment;class#ChainOfResponsibilityClient#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="docComment;method#addRatifys#0;class#ChainOfResponsibilityClient#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="docComment;method#execute#0;class#ChainOfResponsibilityClient#0" expanded="true" />
+            <element signature="e#648#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式/ErrorLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="47" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式/LoggerEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式/ChainPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/GroupLeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="docComment;class#GroupLeader#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Ratify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="docComment;class#Ratify#0" expanded="true" />
+            <element signature="docComment;class#Chain#0;class#Ratify#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/designPattern/职责链模式and创建模式/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="docComment;class#Manager#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>java-all-test:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Python 3.6 (scalanew) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -461,6 +1234,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java-all-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -475,6 +1261,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
